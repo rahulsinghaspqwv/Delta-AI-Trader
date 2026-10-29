@@ -225,9 +225,16 @@ class MarketWorker(QThread):
             if total_depth > 0 else 0
         )
 
-        recent_trades = trades_response.get(
-            "trades", []
-        )
+        # recent_trades = trades_response.get(
+        #     "trades", []
+        # )
+
+        if isinstance(trades_response, list):
+            recent_trades = trades_response
+        elif isinstance(trades_response, dict):
+            recent_trades = trades_response.get("trades", [])
+        else:
+            recent_trades = []
 
         buy_volume = 0.0
         sell_volume = 0.0
