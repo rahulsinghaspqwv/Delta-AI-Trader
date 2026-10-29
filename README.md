@@ -1,10 +1,10 @@
-# ⚡ DELTA AI TRADER
+# ⚡ DELTA AI TRADER ()
 
 ### AI-Powered Cryptocurrency Market Intelligence & Trading Research
 
 **Machine Learning • Quantitative Analysis • Technical Indicators • Strategy Backtesting**
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://github.com/rahulsinghaspqwv/Delta-AI-Trader/blob/main/Screenshot%202026-10-29%20062921_02.png)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-8A2BE2?style=for-the-badge)
 ![Delta Exchange](https://img.shields.io/badge/Delta-Exchange-00C896?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Research%20%26%20Development-orange?style=for-the-badge)
@@ -102,7 +102,7 @@ Delta-AI-Trader/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Delta-AI-Trader.git
+git clone https://github.com/rahulsinghaspqwv/Delta-AI-Trader.git
 cd Delta-AI-Trader
 ```
 
@@ -209,20 +209,27 @@ A positive win rate alone did not translate into positive trading performance.
 ## 🔐 Security & Risk Disclaimer
 
 This project is intended for **educational, research, and experimental purposes only**.
+
 Cryptocurrency and derivatives trading involve substantial financial risk. Machine learning predictions are probabilistic and do not guarantee profitable outcomes.
 Never expose API credentials, private keys, or account secrets in public repositories.
+
 **No profitability, accuracy, or live-trading performance is guaranteed.**
 ---
 
 ## 🤝 Contributions
+
 Suggestions, improvements, bug reports, and research contributions are welcome.
 Contributions involving reproducible experiments, improved validation, risk modeling, and reliable data processing are particularly valuable.
+
 ---
 
 ### ⭐ Support the Project
+
 If you find Delta AI Trader interesting, consider starring the repository and following its development.
+
 **Built with Python • Powered by Data • Driven by Research**
 *Delta AI Trader — Turning Market Data Into Researchable Trading Intelligence.*
+
 ---
 
 ## ⚠️ NOTE: Important Disclaimer
