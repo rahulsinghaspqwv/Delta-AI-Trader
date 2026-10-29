@@ -454,7 +454,7 @@ class DeltaTerminal(QMainWindow):
         super().__init__()
 
         self.setWindowTitle(
-            "DELTA AI TRADER | Market Intelligence"
+            "DELTA AI TRADER | ranishvashud 1.0"
         )
 
         self.resize(1200, 750)
@@ -476,7 +476,7 @@ class DeltaTerminal(QMainWindow):
 
         layout = QVBoxLayout(central)
 
-        title = QLabel("DELTA AI TRADER")
+        title = QLabel("DELTA AI TRADER - RV")
         title.setObjectName("title")
 
         subtitle = QLabel(
